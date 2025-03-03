@@ -1,0 +1,17 @@
+# streamlit
+# qrcode
+# reportlab
+
+#for SQL 
+streamlit
+pyodbc
+reportlab
+qrcode
+pillow
+toml
+
+
+
+################
+#database main
+
